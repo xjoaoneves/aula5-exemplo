@@ -1,2 +1,2 @@
 # aula5-exemplo
-eh isso ai aula de versionamento
+aula de versionamento git
